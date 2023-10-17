@@ -6,11 +6,27 @@ NEATLY is a Hotel Management System created as a learning project to gain hands-
 
 _NEATLY is a learning project created by a team of students as part of a learning experience, and it may not be suitable for production or commercial use._
 
+**Note**: This project has not been subjected to deployment testing or unit testing. The demo is intended for local installation only.
+
 Please note the following:
 
 - NEATLY may contain experimental features, coding practices, or design decisions as our team was actively learning and trying out different approaches.
 - It may not have undergone rigorous testing and validation that production-ready software typically receives.
 - The project is provided "as is" and without any warranties. We do not guarantee its fitness for any particular purpose.
+
+### Installation
+
+To run the NEATLY project locally, you can follow these steps:
+
+#### Client (Frontend)
+
+1. npm install
+1. npm run dev
+
+#### Server (Backend)
+
+1. npm install
+1. npm start
 
 ## Project Overview
 
