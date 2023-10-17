@@ -2,6 +2,16 @@
 
 NEATLY is a Hotel Management System created as a learning project to gain hands-on experience in software development. This system provides a simulated environment for hotel operations and showcases various aspects of database design and API development.
 
+## Learning Project Disclaimer
+
+_NEATLY is a learning project created by a team of students as part of a learning experience, and it may not be suitable for production or commercial use._
+
+Please note the following:
+
+- NEATLY may contain experimental features, coding practices, or design decisions as our team was actively learning and trying out different approaches.
+- It may not have undergone rigorous testing and validation that production-ready software typically receives.
+- The project is provided "as is" and without any warranties. We do not guarantee its fitness for any particular purpose.
+
 ## Project Overview
 
 NEATLY demonstrates a simplified Hotel Management System, focusing on core features:
